@@ -1,2 +1,3 @@
 this is my first test file for git.
 please help me to getting the job.
+know the diff b/w working directory and staging area
