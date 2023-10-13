@@ -1,3 +1,0 @@
-this is branch file
-edited from local machine
-this is a stash lecture of git
