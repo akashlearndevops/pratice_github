@@ -1,8 +1,0 @@
-this is my first test file for git.
-please help me to getting the job.
-know the diff b/w working directory and staging area
-branch matter which is ready for merge
-brach code develop
-testmatter without using given branch name push
-push develop to master branch if possible
-today I am working on the urgent fix.
